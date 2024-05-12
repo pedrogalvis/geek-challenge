@@ -43,6 +43,7 @@ Accede a la página:
 - Una vez que el servidor esté en funcionamiento, puedes acceder a la página a través del archivo index.html en la carpeta del repositorio o si quieres puedes acceder directamente a los datos del servidor a través de la url generada automáticamente por json-server. Por ejemplo,
 
 <http://localhost:3001/productos>
+https://pedrogalvis.github.io/geek-challenge/
 
 
 
