@@ -1,6 +1,6 @@
 ![image](https://github.com/pedrogalvis/geek-challenge/assets/97988826/f27fa26e-1bf1-4a05-b682-4c03a8e276e4)
 
-
+https://pedrogalvis.github.io/geek-challenge/
 
 Desafío de Alura / principales funcionalidades
 
@@ -9,14 +9,12 @@ Desafío de Alura / principales funcionalidades
 - Eliminación de productos existentes.
 Este desafío es uno de los desafíos propuestos en la formación Front-end del programa Alura ONE (Oracle Next Education) y consiste en una página web (Alurageek) que muestra productos obtenidos de un servidor mediante fetch GET. También permite agregar un nuevo producto mediante fetch POST y eliminar productos de la lista con fetch DELETE.
 
+Forma de instalación
 
-Instalación
-
-1. Clona este repositorio en tu máquina local.
-2. Abre una terminal en la raíz del proyecto.
-3. Instalación de Node.js:
-
-- Ve al sitio web oficial de Node.js:
+ - Clona este repositorio en tu máquina local.
+ - Abre una terminal en la raíz del proyecto.
+ - Instalación de Node.js:
+ - Ve al sitio web oficial de Node.js:
 
 <https://www.nodejs.org>
 
@@ -44,8 +42,3 @@ Accede a la página:
 
 <http://localhost:3001/productos> <br>
 <spam>
-https://pedrogalvis.github.io/geek-challenge/
-
-
-
-
