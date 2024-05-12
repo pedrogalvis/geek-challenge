@@ -1,3 +1,4 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![image](https://github.com/pedrogalvis/geek-challenge/assets/97988826/f27fa26e-1bf1-4a05-b682-4c03a8e276e4)
 
 https://pedrogalvis.github.io/geek-challenge/
