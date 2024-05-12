@@ -1,8 +1,8 @@
-![image](https://github.com/pedrogalvis/geek-challenge/assets/97988826/18b54816-8a57-42e7-909d-8a8d0acd6de6)
+![image](https://github.com/pedrogalvis/geek-challenge/assets/97988826/f27fa26e-1bf1-4a05-b682-4c03a8e276e4)
 
 
-Desafío Alurageek
-Funcionalidades
+
+Desafío de Alura / principales funcionalidades
 
 - Visualización de productos desde un servidor ya sea local implemetado con json-server o un servidor en linea en este caso proporcionado por firebase de Google..
 - Agregado de nuevos productos a la lista.
